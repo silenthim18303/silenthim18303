@@ -24,6 +24,4 @@ Frontend Development
 - Development Philosophy : Practical first, pursue concise code structure, standardized development process and excellent user experience
 
 ---
-## ✨ Visitor Count
 
-Thanks for visiting my GitHub profile! Welcome to communicate and star my projects ✨
